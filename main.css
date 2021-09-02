@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+   background-color: #2C2B2B;
+   background-image: url("./../img/Fon.png"); 
+   background-color: #2C2B2B;
+   font-family: Open Sans;
+   background-size: 100% auto;
+   background-repeat: no-repeat;
+   color: white;
+   
+}
+
+.container {
+margin-left: 84px;
+padding-top:77px ;
+display: flex;
+
+
+
+
+}
+
+
+
+.logo {
+margin: 0;
+/* display: inline-block; */
+height: -100px;
+
+
+}
+
+.nav {
+   
+    text-decoration: none;
+    color: white;
+}
